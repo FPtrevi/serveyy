@@ -85,6 +85,7 @@ one-flex{
     font-family : 'KCC-eunyoung';
     font-size: 40px;
     height: 100%;
+    padding: 30px 0;
 }
 
 #two_ed{
@@ -133,6 +134,7 @@ one-flex{
 body{
     background-color: #B89470;
     text-align: center;
+    margin: 5px;
 }
 
 .radius{
@@ -141,6 +143,10 @@ body{
     color: #E0D1BE;
     font-size: 20px;
     font-family: 'SpoqaHanSansNeo-Regular';
+}
+
+input[type = submit]:hover{
+    background-color: #b46f6d;
 }
 
 input[type = submit]{
@@ -153,8 +159,4 @@ input[type = submit]{
     cursor: pointer;
     border-radius: 50px;
     font-family: 'SpoqaHanSansNeo-Regular';
-}
-
-input[type = submit]:hover{
-    background-color: #b46f6d;
 }
