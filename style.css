@@ -1,0 +1,156 @@
+@font-face {
+    font-family: 'KCC-eunyoung';
+    src: url('https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_one@1.0/KCC-eunyoung-Regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'SBAggroB';
+    src: url('https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_2108@1.1/SBAggroB.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'SpoqaHanSansNeo-Regular';
+    src: url('https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_2108@1.1/SpoqaHanSansNeo-Regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+.out{
+    height: 800px;
+    width: 800px;
+    border: 3px solid #831110;
+    text-align: center;
+    vertical-align: middle;
+    display: table-cell;
+    background-color: #E0D1BE;
+}
+.in{
+    height: 780px;
+    width: 780px;
+    border: 3px solid #831110;
+    display: inline-block;
+    text-align: center;
+    background-color: #E0D1BE;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+#title{
+    font-family: 'SpoqaHanSansNeo-Regular';
+    display: inline-block;
+    font-size: 23px;
+    margin: 25px 0px;
+    border-bottom: 1px solid #831110;
+    border-top: 1px solid #831110;
+    width: 50%;
+}
+
+#title span{
+    color: #990A04;
+}
+
+.index1{
+    font-size: 60px;
+    font-family: 'SBAggroB';
+}
+
+.index2{
+    font-size: 100px;
+    font-family: 'SBAggroB';
+    color: #990A04;
+}
+
+.index3{
+    font-family: 'KCC-eunyoung';
+    font-size: 30px;
+}
+
+.flex{
+    display: flex;
+    width: 100%;
+    justify-content: space-around;
+}
+
+one-flex{
+    flex: 1;
+    text-align: center;
+}
+
+#one_st{
+    width: 150px;
+    height: 100px;
+    font-family : 'KCC-eunyoung';
+    font-size: 40px;
+    height: 100%;
+}
+
+#two_ed{
+    width: 150px;
+    height: 100px;
+    
+    font-family : 'KCC-eunyoung';
+    font-size: 30px;
+    margin: 0 0 20px 0;
+}
+
+#two_ed1{
+    width: 150px;
+    height: 100px;
+    
+    font-family : 'KCC-eunyoung';
+    font-size: 30px;
+}
+
+#three_rd{
+    width: 150px;
+    height: 80px;
+    
+    font-family : 'KCC-eunyoung';
+    font-size: 20px;
+    margin: 0 0 20px 0;
+}
+
+#three_rd1{
+    width: 150px;
+    height: 80px;
+    
+    font-family : 'KCC-eunyoung';
+    font-size: 20px;
+    margin: 0 0 20px 0;
+}
+
+#three_rd2{
+    width: 150px;
+    height: 80px;
+    
+    font-family : 'KCC-eunyoung';
+    font-size: 20px;
+}
+
+body{
+    background-color: #B89470;
+    text-align: center;
+}
+
+.radius{
+    border-radius: 50px;
+    background-color: #990A04;
+    color: #E0D1BE;
+    font-size: 20px;
+    font-family: 'SpoqaHanSansNeo-Regular';
+}
+
+input[type = submit]{
+    background-color: #990A04;
+    border: none;
+    color: #E0D1BE;
+    padding: 16px 32px;
+    text-decoration: none;
+    margin: 4px 2px;
+    cursor: pointer;
+    border-radius: 50px;
+    font-family: 'SpoqaHanSansNeo-Regular';
+}
