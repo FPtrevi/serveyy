@@ -154,3 +154,7 @@ input[type = submit]{
     border-radius: 50px;
     font-family: 'SpoqaHanSansNeo-Regular';
 }
+
+input[type = submit]:hover{
+    background-color: #b46f6d;
+}
