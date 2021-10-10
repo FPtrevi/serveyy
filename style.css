@@ -43,8 +43,8 @@
     display: inline-block;
     font-size: 23px;
     margin: 25px 0px;
-    border-bottom: 1px solid #831110;
-    border-top: 1px solid #831110;
+    border-bottom: 3px solid #831110;
+    border-top: 3px solid #831110;
     width: 50%;
 }
 
