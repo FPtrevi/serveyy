@@ -1,51 +1,51 @@
-var list = [
+const list = [
     {
-        id: "조현채"   ,
+        id: "조*채"   ,
         university :  "부산여대"   ,
         department : "호텔외식조리학과"
     },
     {
-        id: "백인서"   ,
+        id: "백*서"   ,
         university :  "부산여대"   ,
         department : "호텔외식조리학과"
     },
     {
-        id: "최수연"   ,
+        id: "최*연"   ,
         university :  "부산여대"   ,
         department : "사회복지학과"
     },
     {
-        id: "박소연"   ,
+        id: "박*연"   ,
         university :  "동의과학대"   ,
         department : "응급구조과"
     },
     {
-        id: "박유진"   ,
+        id: "박*진"   ,
         university :  "동의대"   ,
         department : "보육가정상담학과"
     },
     {
-        id: "박지은"   ,
+        id: "박*은"   ,
         university :  "동의과학대"   ,
         department : "간호학과"
     },
     {
-        id: "김상은"   ,
+        id: "김*은"   ,
         university :  "동의대"   ,
         department : "국제관광경영학과"
     },
     {
-        id: "이창민"   ,
+        id: "이*민"   ,
         university :  "동의대"   ,
         department : "보육가정상담학과"
     },
     {
-        id: "박민지"   ,
+        id: "박*지"   ,
         university :  "동의과학대"   ,
         department : "방사선과"
     },
     {
-        id: "손용환"   ,
+        id: "손*환"   ,
         university :  "동의과학대"   ,
         department : "공간정보지적과"
     },
